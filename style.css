@@ -1,2 +1,10 @@
 
-.left-
+.left-item{
+float:left;
+width:20%;
+}
+
+rigt-item
+{
+  float:right;
+}
